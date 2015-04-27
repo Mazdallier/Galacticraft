@@ -175,7 +175,7 @@ entity.Slimeling.name=Vaseux
 entity.CreeperBoss.name=Boss Creeper évolué
 entity.SpaceshipT2.name=Fusée de niveau 2
 entity.CargoRocket.name=Fusée de transport de marchandise
-entity.LandingBalloons.name=Landing Balloons ##NEEDS TRANSLATE##
+entity.LandingBalloons.name=Ballons d'atterissage
 
 # CONTAINERS
 container.launchcontroller.name=Contrôleur de lancement
@@ -183,9 +183,9 @@ container.tileTerraformer.name=Terraformeur
 container.marsLander.name=Ballons d'atterissage
 
 # CONFIG GUI
-gc.configgui.dimensionIDMars=Mars Dimension ID
-gc.configgui.idSchematicRocketT2=Tier 2 Rocket Schematic ID
-gc.configgui.idSchematicCargoRocket=Cargo Rocket Schematic ID
+gc.configgui.dimensionIDMars=ID dimension Mars
+gc.configgui.idSchematicRocketT2=ID schéma fusée niveau 2
+gc.configgui.idSchematicCargoRocket=ID schéma fusée cargo
 gc.configgui.launchControllerChunkLoad=Launch Controller Chunkloading
 gc.configgui.launchControllerAllDims=Launch Controller All Dimensions
 
